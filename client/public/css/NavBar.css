@@ -1,0 +1,30 @@
+/*.section {*/
+/*    margin-left: 400px;*/
+
+/*}*/
+/*#headmenu0{*/
+/*    display: flex;*/
+/*    justify-content: space-between;*/
+/*    padding-left: 100px;*/
+/*    padding-right: 100px;*/
+/*    text-align: center!important;*/
+/*    background-color:white!important;*/
+/*}*/
+.headmenu{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 100px;
+    padding-right: 100px;
+
+    background-color:rgba(55, 56, 16, 0.23)!important;
+
+}
+
+.headmenu .nav-link{
+    color: #000000;
+
+}
+
+.form-inline .form-control{
+    width: 215px!important;
+}

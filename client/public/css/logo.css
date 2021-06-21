@@ -1,0 +1,81 @@
+.first-row{
+    justify-content: space-between;
+    padding-bottom: 1.5%;
+}
+
+.pogon{
+
+    width: 30px;
+    transform: rotate(15deg);
+    padding-top: 1.5px;
+    margin-right: 5px;
+    /*padding-bottom: 1%;*/
+}
+
+.ArialR{
+    top: 8px;
+
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bolder;
+    font-size: 40px;
+    line-height: 42px;
+    text-align: center;
+
+    color: #373810;;
+}
+.Arial{
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 16px;
+    text-align: center;
+
+    color: #373810;
+}
+
+.Akhronim15{
+    font-family: Akronim;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 55px;
+    line-height: 55px;
+    text-align: center;
+
+    color: #373810;
+}
+
+.Akhronim20{
+    font-family: Akronim;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 21px;
+    text-align: center;
+
+    color: #373810;
+}
+
+.welcomeWord{
+    font-family: Aladin;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 35px;
+    padding-top: 1%;
+    text-align: center;
+
+    color: #000000;
+}
+
+
+
+
+
+
+
+
+
+
+

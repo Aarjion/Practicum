@@ -1,0 +1,91 @@
+.block{
+    border: 2px solid black;
+    width: 24%;
+    height: 150px;
+    box-sizing: border-box;
+    text-align: center;
+    margin: 0 0 20px 0;
+    border-radius: 6%;
+    /*position: relative;*/
+
+}
+
+.section-blocks{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 40px 0 20px;
+}
+
+.block-title{
+    /*bottom: 0;*/
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 6%;
+    border: 1px solid #373810;
+    background-color: #373810;
+    color: #C4C4C4;
+    margin: 120.5px 0 0 1px;
+
+}
+
+.short-info{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 40px 0 20px;
+}
+
+.short-section{
+    width: 3.8%;
+    height: 38px;
+    box-sizing: border-box;
+    text-align: center;
+    border-radius: 6%;
+}
+
+.short-text{
+    margin-left: -120px;
+    margin-top: -5px;
+}
+
+#i1{
+    background-image: url("img/voen.png");
+}
+#i2{
+    background-image: url("img/policeleto.jpg");
+}
+#i3{
+    background-image: url("img/mchs.png");
+}
+#i4{
+    background-image: url("img/pogran.jpg");
+}
+#i5{
+    background-image: url("img/furni.jpg");
+}
+#i6{
+    background-image: url("img/suvenir.jpg");
+}
+#i7{
+    background-image: url("img/ucenka.jpg");
+}
+#i8{
+    background-image: url("img/ohotnikrybak.jpg");
+}
+#i9{
+    background-image: url("img/razmery.png");
+}
+#i10{
+    background-image: url("img/primerka.png");
+}
+#i11{
+    background-image: url("img/dostavka.png");
+}
+#i12{
+    background-image: url("img/oplata.png");
+}
+
+
